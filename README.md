@@ -1,4 +1,4 @@
-#Integrantes:
-## Jorge Collazos
-## Mario Rios
-## Angello Zuloaga
+##Integrantes:
+- Jorge Collazos
+- Mario Rios
+- Angello Zuloaga
